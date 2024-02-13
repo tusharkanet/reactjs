@@ -1,0 +1,206 @@
+
+
+body{
+    background-color: rgb(7, 7, 7);
+    
+}
+
+ div {
+    height: 497px;
+    width: 1280px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 30px;;
+
+}
+
+.tr-1 {
+    height: 450px;
+    width: 290px;
+    object-position: 10px;
+    background-color: rgb(25, 43, 43);
+    margin: 25px 15px 50px 35px;
+    border-radius: 20px;
+}
+
+.tr-2 {
+    height: 250px;
+    width: 300px;
+    object-position: center;   
+    position: relative;
+    bottom: 100px;
+    right: 320px;
+}
+p{
+    height: 20px;
+    width: 20px;
+    color: rgb(16, 15, 15);
+    font-size: 25px;
+    position: relative;
+    bottom: 180px;
+    left: 210px;
+}
+h4{
+    position: relative;
+    /* font-weight: 1PX; */
+    color: white;
+    bottom: 545PX;
+    left: 110px;
+}
+h2{
+    color: yellow;
+    position: relative;
+    bottom: 550px;
+    left: 80px;
+}
+.tr-3 {
+   position: relative;
+   right: 450px;
+   bottom: 80px;
+   color: white;
+   cursor:progress;
+}
+.div-1{
+    height: 200px;
+    width: 900px;
+   background-color: rgb(9, 59, 19);
+   position: relative;
+   left: 350px;
+   bottom: 415px;
+   background-image: url("img/asset\ 43.png");
+     
+  
+}
+.tr-4 {
+  position: relative;
+  left: 290px;
+  bottom: 640px;
+  height: 270px;
+  
+}
+H1{
+    left: 720px;
+    bottom: 820px;
+    color: white;
+    position: relative;
+    font-size: 45px;
+    
+}
+h5{
+    position: relative;
+    bottom:930px;
+    left: 720px;
+    color: white;
+    font-size: 18px;
+    
+}
+button{
+    position: relative;
+   bottom: 965px;
+   left: 1035px;
+   height: 45px;
+   width:170px;
+   border-radius: 8px ;
+   border-color: white;
+   border: none;
+   font-size: 20px;
+   cursor:progress;
+   
+}
+.div-3{
+    height: 220px;
+    width:430px;
+    background-color: rgb(220, 48, 48);
+    position: relative;
+    bottom: 1340px;
+    left: 350px;
+    
+
+
+
+}
+.div-4{
+    height: 220px;
+    width:430px;
+    background-color: rgb(16, 11, 11);
+    position: relative;
+    bottom: 1560px;
+    left: 815px;
+    background-image: url("img/asset\ 42.png");
+    background-size: cover;
+
+    
+}
+.tr-5 {
+   position: relative;
+   bottom: 1817px;
+   left: 350px;
+   width: 200px;
+   height: 258px;
+}
+
+.tr-10 {
+    position: relative;
+   bottom: 2075px;
+   left: 570px;
+   font-size: 60px;
+   
+  
+}
+.tr-11 {
+    position: relative;
+   bottom: 2042px;
+   left: 570px;
+   color: white
+}
+   
+.tr-12 {
+    position: relative;
+   bottom: 2112px;
+   left: 570px;
+   color:yellow;
+   font-size: 30PX;
+   
+   
+  
+}
+.TR-13{
+    position: relative;
+    bottom: 2128px;
+    left: 570Px;
+    height: 40px;
+    width:150px;
+    border-radius: 8px ;
+    border-color: white;
+    border: none;
+    font-size: 20px;
+    cursor:progress;
+}
+.TR-14 {
+    position: relative;
+   bottom: 2298px;
+   left: 1060px;
+   color: white;
+   font-size: 18PX;
+}
+.TR-15 {
+    position: relative;
+   bottom: 2320px;
+   left: 1060px;
+   color:yellow;
+   font-size: 35px;
+   
+}
+.TR-16{
+    position: relative;    
+    bottom: 2330px;
+    left: 1060px;
+    height: 45px;
+    width:150px;
+    border-radius: 8px ;
+    border-color: white;
+    border: none;
+    font-size: 20px;
+    cursor:progress;
+}
+
