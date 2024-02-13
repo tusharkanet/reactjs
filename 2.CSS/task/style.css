@@ -1,0 +1,17 @@
+/* h1 {
+    color: aqua;
+    
+} */
+a:first-child{
+    color: rgb(149, 85, 85);
+    background-color: rgb(80, 129, 115);
+}
+
+section div h1:first-of-type{
+    color: rgb(133, 84, 84);
+    background-color: rgb(74, 148, 105);
+}
+a:nth-child(4){
+    color: rgb(193, 118, 118);
+    background-color: rgb(88, 128, 133);
+}
